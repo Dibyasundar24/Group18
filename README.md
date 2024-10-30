@@ -8,6 +8,3 @@ Microcontroller Familiarization: To become proficient in programming and interfa
 PWM Control Implementation: To implement Pulse Width Modulation (PWM) for speed control of the DC motor.
 Feedback Mechanism: To incorporate a feedback system (e.g., tachometer) for real-time speed monitoring and adjustment.
 Testing and Validation: To conduct tests for validating the effectiveness and efficiency of the speed control system.
-
-Conclusion
-This report outlines a systematic approach to implementing speed control for a separately excited DC motor using TIVA. By following the specified objectives and flow chart, the project aims to achieve efficient and precise motor control suitable for various applications.
